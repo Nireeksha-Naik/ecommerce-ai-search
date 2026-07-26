@@ -1,0 +1,10 @@
+{
+  "json.schemaDownload.enable": false
+}
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit",
+    "source.sortMembers": "explicit"
+  }
+}
