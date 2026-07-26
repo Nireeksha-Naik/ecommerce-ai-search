@@ -260,8 +260,6 @@ lightweight running shoes under ₹5,000
 This project is provided as-is for educational and demonstration purposes.
 
 ---
-
-markdown
 ## 🙋 Author
 
 **Nireeksha P**  
