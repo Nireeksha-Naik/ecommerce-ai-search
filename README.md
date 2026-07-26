@@ -261,6 +261,9 @@ This project is provided as-is for educational and demonstration purposes.
 
 ---
 
+markdown
 ## 🙋 Author
 
+**Nireeksha P**  
 Built as part of a conversational AI eCommerce search project submission.
+- 💻 GitHub: [@Nireeksha-Naik](https://github.com/Nireeksha-Naik)
