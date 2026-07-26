@@ -10,7 +10,7 @@ Built with **Expo Router**, **TypeScript**, and a pluggable AI search layer that
 
 - 🗣️ **Natural language product search** — type or speak a query like *"lightweight running shoes under ₹5,000"*
 - 🤖 **AI intent parsing** — extracts category, budget (min/max), and feature keywords from free text
-- 🔍 **Graceful AI fallback** — uses Gemini/OpenAI if configured, otherwise falls back to a local mock NLP engine automatically
+- 🔍 **Graceful AI fallback** — uses Gemini if configured, otherwise falls back to a local mock NLP engine automatically
 - 🏷️ **"Why this matched" explanations** — every result shows a badge explaining why it was recommended
 - 🛒 **Cart & checkout flow** — add to cart, buy now, view order confirmation
 - 💰 **Single currency (INR)** — consistent ₹ pricing across the entire app
