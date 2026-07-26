@@ -5,6 +5,11 @@ A React Native (Expo) mobile eCommerce app that lets users search for products u
 Built with **Expo Router**, **TypeScript**, and a pluggable AI search layer that works out-of-the-box with a local rule-based NLP engine, and upgrades automatically to **Google Gemini** or **OpenAI** when an API key is provided.
 
 ---
+## 🔗 Live Demo
+
+**[View the live app →](https://6a657d58f9e9fa84a4452f28--inquisitive-zuccutto-3a35be.netlify.app/)**
+
+---
 
 ## ✨ Features
 
